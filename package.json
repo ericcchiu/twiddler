@@ -1,0 +1,22 @@
+{
+  "name": "hrext-twittler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericcchiu/hrext-twittler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericcchiu/hrext-twittler/issues"
+  },
+  "homepage": "https://github.com/ericcchiu/hrext-twittler#readme",
+  "dependencies": {
+    "webkit": "0.0.0"
+  }
+}
